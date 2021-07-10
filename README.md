@@ -1,5 +1,5 @@
 # minivim
-注：本代码参考https://github.com/antirez/kilo进行修改,主要增加了撤销重做，kmp算法查找，以及替换等功能
+注：本代码参考https://github.com/antirez/kilo 进行修改,主要增加了撤销重做，kmp算法查找，以及替换等功能
 使用c语言模拟linux下的vim文本编辑器
 
 本项目由小组成员共同开发
